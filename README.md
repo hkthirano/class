@@ -10,4 +10,4 @@
     - irisGraphicalLasso.ipynb
 
 - Exercise4 : 不均衡分類に対する解決策を用いる演習
-    - plot_over_sampling_benchmark_lfw.ipynb
+    - plot_over_under_sampling_benchmark_imbalance.ipynb
