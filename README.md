@@ -11,3 +11,6 @@
 
 - Exercise4 : 不均衡分類に対する解決策を用いる演習
     - plot_over_under_sampling_benchmark_imbalance.ipynb
+
+- Exercise5 : 特徴選択/検証曲線/学習曲線に関わる演習
+    - rfe_validation_learning_curve.ipynb
