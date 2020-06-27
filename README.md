@@ -14,3 +14,6 @@
 
 - Exercise5 : 特徴選択/検証曲線/学習曲線に関わる演習
     - rfe_validation_learning_curve.ipynb
+
+- Exercise6 : 共変量シフトに関わる問題
+    - https://www.kaggle.com/hkthirano/covariate_shift_of_banana_dataset
