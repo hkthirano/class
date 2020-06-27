@@ -16,4 +16,4 @@
     - rfe_validation_learning_curve.ipynb
 
 - Exercise6 : 共変量シフトに関わる問題
-    - https://www.kaggle.com/hkthirano/covariate-shift-of-banana-dataset/
+    - https://www.kaggle.com/hkthirano/covariate-shift-of-banana-dataset
